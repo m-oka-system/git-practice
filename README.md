@@ -1,2 +1,1 @@
-This is git practibe repo.
-Update readme on feature.
+1st line.
